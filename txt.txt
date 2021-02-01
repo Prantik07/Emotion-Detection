@@ -1,0 +1,2 @@
+Tensorflow version - 2.4.0
+Drive link - https://drive.google.com/drive/folders/1rZgtrns0i62AAtqDadUYuHNZx-rGqW2B?usp=sharing
